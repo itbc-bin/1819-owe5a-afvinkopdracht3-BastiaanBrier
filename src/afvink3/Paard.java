@@ -39,6 +39,8 @@ public class Paard {
         return this.afstand;
     }
 
+    public void setAfstand(int afstand){ this.afstand = afstand;}
+
     public int getPaardNummer() {
         return paardNummer;
     }
